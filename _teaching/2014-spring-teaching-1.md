@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "NO TEACHING YET"
 collection: teaching
-type: "Undergraduate course"
+type: "WAIT FOR FALL 2024"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "HOPEFULLY SOMEWHERE"
+date: 2024-12-12
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Placeholder for when i (hopefully) TA in the fall upon starting grad school
 
 Heading 1
 ======
