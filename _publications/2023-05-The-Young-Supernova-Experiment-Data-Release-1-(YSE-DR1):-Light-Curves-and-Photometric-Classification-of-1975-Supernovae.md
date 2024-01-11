@@ -1,7 +1,7 @@
 ---
 title: "The Young Supernova Experiment Data Release 1 (YSE DR1): Light Curves and Photometric Classification of 1975 Supernovae"
 collection: publications
-permalink: /publication/2023-05-The-Young-Supernova-Experiment-Data-Release-1-(YSE-DR1):-Light-Curves-and-Photometric-Classification-of1975-Supernovae
+permalink: /publication/2023-05-The-Young-Supernova-Experiment-Data-Release-1-Light-Curves-and-Photometric-Classification-of1975-Supernovae
 excerpt: 'This paper is on the first data release of the Young Supernova Experiment, containing around 2000 supernova classifications'
 date: 2023-05
 venue: 'The Astrophysical Journal Supplement Series'
