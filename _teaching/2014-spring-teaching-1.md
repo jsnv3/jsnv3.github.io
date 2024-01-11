@@ -9,12 +9,3 @@ location: "City, Country"
 ---
 
 Placeholder for when i (hopefully) TA in the fall upon starting grad school
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
