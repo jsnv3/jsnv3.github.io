@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Astrophysics, University of Illinois Urbana-Champaign, 2023
+* Minor in Statistics, University of Illinois Urbana-Champaign, 2023
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Present: Post-bac researcher
+  * University of Illinois Urbana-Champaign
+  * Duties included: Research and development of YSE Type II sample, authoring paper on analysis. 
+  * Supervisor: Drs. Gautham Narayan & Charlie Kilpatrick
+* Summer 2021: REU Student 
+  * Northwestern University CIERA 
+  * Duties included: Using archival Hubble Space Telescope imaging to search for progenitor star; relative astrometry and photometry for iamge alignment and source identification; full paper published in Astrophysical Journal 
+  * Supervisor: Drs. Charlie Kilpatrick & Wen-fai Fong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Student Researcher 
+  * OurSolarSiblings RR Lyrae Summer Research Course
+  * Duties included: Using remote queue-based telescope observation; photometric analysis of color band magnitudes, periodicity, distances 
+  * Supervisor: Dr. Bryan Dunne 
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Comfortable with NumPy, AstroPy, Matplotlib, Pandas, SciPy
+* R
+* LaTeX
+* Observing
+  * DECam Blanco 4m Telescope (1 full night)
 
 Publications
 ======
@@ -54,6 +58,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
