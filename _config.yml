@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "J.Vazquez"
 title_separator          : "-"
 name                     : &name "Jason Vazquez"
-description              : &description "Post-baccalaureate"
+description              : &description "Graduate Student"
 url                      : https://jsnv3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jsnv3/jsnv3.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jason Vazquez"
   avatar           : "DSCF8027.jpg"
-  bio              : "Post-baccalaureate researcher"
-  location         : "University of Illinois Urbana-Champaign"
+  bio              : "Graduate Student, Physics"
+  location         : "University of Wisconsin-Milwaukee"
   employer         :
   pubmed           :
   googlescholar    : 
